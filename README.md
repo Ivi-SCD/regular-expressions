@@ -14,7 +14,7 @@
 
 ---
 
-### Índice
+### `Índice`
 
 - [Sobre o projeto](#sobre)
 - [Níveis dos Assuntos](#niveis)
@@ -25,7 +25,7 @@
 <div>
     <a name="sobre"></a>
     <h3 style="background-color: #eee; padding: 10px; text-align: center; text-transform: uppercase; font-size: 48px; font-weight: bold; letter-spacing: 10px; color: #333; position: relative; border: none; text-shadow: 2px 2px 0px rgba(0,0,0,0.1); box-shadow: inset 0 0 10px rgba(0,0,0,0.2), 0 0 20px rgba(255,255,255,0.5), 0 0 30px rgba(255,255,255,0.2), 0 0 40px rgba(255,255,255,0.2), 0 0 70px rgba(255,255,255,0.2); background-size: cover; background-position: center center;">
-       Sobre o Projeto
+       <code>Sobre o Projeto</code>
     </h3>
 </div>
 
@@ -41,10 +41,10 @@
 
 <div>
     <a name="niveis"></a>
-    <h3 style="background-color: #eee; padding: 10px; text-align: center; text-transform: uppercase; font-size: 48px; font-weight: bold; letter-spacing: 10px; color: #333; position: relative; border: none; text-shadow: 2px 2px 0px rgba(0,0,0,0.1); box-shadow: inset 0 0 10px rgba(0,0,0,0.2), 0 0 20px rgba(255,255,255,0.5), 0 0 30px rgba(255,255,255,0.2), 0 0 40px rgba(255,255,255,0.2), 0 0 70px rgba(255,255,255,0.2); background-size: cover; background-position: center center;">
+    <h3>
        Nível Iniciante
     </h3>
-    <table style="border-collapse: collapse; border: solid 3px #ccc; box-shadow: 0px 20px 15px rgba(0, 0, 0, 0.3); position: relative;">
+    <table border="5">
         <thead align="center">
             <tr>
                 <th>Assunto</th>
@@ -70,10 +70,10 @@
             </tr>
         </tbody>
     </table>
-    <h3 style="background-color: #eee; padding: 10px; text-align: center; text-transform: uppercase; font-size: 48px; font-weight: bold; letter-spacing: 10px; color: #333; position: relative; border: none; text-shadow: 2px 2px 0px rgba(0,0,0,0.1); box-shadow: inset 0 0 10px rgba(0,0,0,0.2), 0 0 20px rgba(255,255,255,0.5), 0 0 30px rgba(255,255,255,0.2), 0 0 40px rgba(255,255,255,0.2), 0 0 70px rgba(255,255,255,0.2); background-size: cover; background-position: center center;">
+    <h3>
         Nível Intermédiario
     </h3>
-    <table style="border-collapse: collapse; border: solid 3px #ccc; box-shadow: 0px 20px 15px rgba(0, 0, 0, 0.3); position: relative;">
+    <table border="5">
     <thead align="center">
         <tr>
             <th>Assunto</th>
@@ -103,10 +103,10 @@
             </tr>
         </tbody>
     </table>
-    <h3 style="background-color: #eee; padding: 10px; text-align: center; text-transform: uppercase; font-size: 48px; font-weight: bold; letter-spacing: 10px; color: #333; position: relative; border: none; text-shadow: 2px 2px 0px rgba(0,0,0,0.1); box-shadow: inset 0 0 10px rgba(0,0,0,0.2), 0 0 20px rgba(255,255,255,0.5), 0 0 30px rgba(255,255,255,0.2), 0 0 40px rgba(255,255,255,0.2), 0 0 70px rgba(255,255,255,0.2); background-size: cover; background-position: center center;">
+    <h3>
         Nível Avançado
     </h3>
-    <table style="border-collapse: collapse; border: solid 3px #ccc; box-shadow: 0px 20px 15px rgba(0, 0, 0, 0.3); position: relative;">
+    <table border="5">
         <thead align="center">
             <tr>
                 <th>Assunto</th>
@@ -144,8 +144,8 @@
 
 <div>
     <a name="contribuir"></a>
-    <h3 style="background-color: #eee; padding: 10px; text-align: center; text-transform: uppercase; font-size: 48px; font-weight: bold; letter-spacing: 10px; color: #333; position: relative; border: none; text-shadow: 2px 2px 0px rgba(0,0,0,0.1); box-shadow: inset 0 0 10px rgba(0,0,0,0.2), 0 0 20px rgba(255,255,255,0.5), 0 0 30px rgba(255,255,255,0.2), 0 0 40px rgba(255,255,255,0.2), 0 0 70px rgba(255,255,255,0.2); background-size: cover; background-position: center center;">
-       Como Contribuir
+    <h3>
+       <code>Como Contribuir</code>
     </h3>
 </div>
 
